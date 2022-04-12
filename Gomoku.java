@@ -3,9 +3,8 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * Name:        David Huang
+ * Name:        Dave4243
  * Date:        3/18/2022
- * Course:      AP CSP
  * Description: The Gomoku.java class displays a GUI where players
  * can play the game Gomoku, or 5 in a row, where a player wins
  * when they get 5 (or more) stones in a row.
@@ -69,7 +68,7 @@ public class Gomoku extends JFrame implements ActionListener
 	 * Runs Gomoku()
 	 */
 	public static void main(String a[])
-    {
+        {
 		try
 		{
 			UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
